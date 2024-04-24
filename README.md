@@ -1,4 +1,4 @@
-                                                               INVENTORY MANAGEMENT SYSTEM
+                                                       INVENTORY MANAGEMENT SYSTEM
 
 The Shop Management System is a Java-based application developed to streamline inventory management and shop operations for small businesses. With an intuitive user interface and robust functionality, the system offers a comprehensive solution for managing products, shop details, and transactions efficiently.
 
